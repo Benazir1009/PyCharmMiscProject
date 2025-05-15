@@ -22,7 +22,7 @@ We used the [Titanic dataset](https://www.kaggle.com/datasets/yasserh/titanic-da
 ## 🛠 Technologies Used
 - Python (Pandas, NumPy, SciPy)
 - Jupyter Notebook
-- 
+  
 ## 📌 Key Findings
 - Age distribution **is not normal** (p-value > 0.05).
 - This means that passenger age across different categories is **not uniformly distributed**.
